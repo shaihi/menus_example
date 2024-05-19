@@ -4,7 +4,7 @@
     <item
         android:id="@+id/firstTest"
         android:title="First Test"
-        app:showAsAction="always"/>
+        />
     <item
         android:id="@+id/secondTest"
         android:title="Second Test"
